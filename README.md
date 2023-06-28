@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -   BMI         |  -  This is a Body Mass Index App  | https://github.com/fantastic-rambo/BMI       |
+| 2 |  - Voting-App            |  -  This is a Simple Voting App| https://github.com/fantastic-rambo/Voting-App       |
+| 3 |  -  Tip-Calculator           |  -  This is a Tip Calculator.           | https://github.com/fantastic-rambo/Tip-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
